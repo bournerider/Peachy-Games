@@ -271,7 +271,7 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: -151.1}
+  m_AnchoredPosition: {x: -6.1, y: 153.3}
   m_SizeDelta: {x: 213, y: 76.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &340827548
@@ -636,25 +636,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
---- !u!1 &956721099 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 193292, guid: b1e326451fd6098498ec92bcc2e97132, type: 2}
-  m_PrefabInternal: {fileID: 2002064831}
---- !u!68 &956721101
-EdgeCollider2D:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 956721099}
-  m_Enabled: 0
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  m_Points:
-  - {x: -0.5, y: 0}
-  - {x: 0.5, y: 0}
 --- !u!1 &1201634341
 GameObject:
   m_ObjectHideFlags: 0
@@ -724,24 +705,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1201634341}
---- !u!1 &1242654705 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 167826, guid: b1e326451fd6098498ec92bcc2e97132, type: 2}
-  m_PrefabInternal: {fileID: 2002064831}
---- !u!61 &1242654707
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1242654705}
-  m_Enabled: 0
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
 --- !u!1 &1244640768
 GameObject:
   m_ObjectHideFlags: 0
