@@ -29,5 +29,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD:gitignore.gitignore
 # UnityLockfile
 C:/Users/Black Box/Desktop/My Stuff/Unity/Peachy-Games/SmashMOBA/Peach1/Temp/UnityLockfile
+=======
+Temp/
+>>>>>>> 6cfe24570dd8214fbc6ca4b3aa331970ef18d7a3:.gitignore
