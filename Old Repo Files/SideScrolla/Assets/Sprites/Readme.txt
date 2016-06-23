@@ -1,1 +1,0 @@
-This folder contains all game sprites including maps, warriors, enemies, and items. Each set should be separated by folders.

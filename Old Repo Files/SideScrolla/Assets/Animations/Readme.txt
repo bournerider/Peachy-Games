@@ -1,1 +1,0 @@
-This folder contains all Unity created animations, drawn from the Sprites in the Sprites folder.
