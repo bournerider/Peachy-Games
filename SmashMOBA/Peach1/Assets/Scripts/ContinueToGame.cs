@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ContinueToGame : MonoBehaviour
 {
-    void Start()
+    public void StartGame(string level)
     {
        SceneManager.LoadScene("Fight Scene", LoadSceneMode.Single);
     }
