@@ -154,6 +154,7 @@
     <None Include="Assets\Animations\Readme.txt" />
     <None Include="Assets\Sprites\Readme.txt" />
     <None Include="Assets\Sprites\TiledMaps\rules.txt" />
+    <None Include="Assets\Tiled2Unity\Imported\Elgard&apos;s Tomb.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\TestMap2.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />
