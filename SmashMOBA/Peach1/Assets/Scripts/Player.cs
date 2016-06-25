@@ -22,10 +22,12 @@ public class Player : MonoBehaviour
     
 
     Controller2D controller;
+    Animator animator;
     
     void Start()
     {
         controller = GetComponent<Controller2D>();
+        animator = GetComponent<Animator>();
         gravity = -(2 * jumpHeight) / (Mathf.Pow(timeToJumpApex, 2));
         jumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
         print("Gravity " + gravity + " Jump Velocity: " + jumpVelocity);
@@ -44,7 +46,11 @@ public class Player : MonoBehaviour
         }
     
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-    
+        
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            animator.SetTrigger("faceRight");
+        }
 
         if (jumpCount > 1)
         {
