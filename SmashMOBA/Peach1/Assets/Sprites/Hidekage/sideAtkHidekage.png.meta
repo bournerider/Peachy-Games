@@ -1,9 +1,17 @@
 fileFormatVersion: 2
 guid: 9f0968a0f6e54224ea570a87cf5c4d93
-timeCreated: 1466388189
+timeCreated: 1466870564
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: sideAtkHidekage_0
+    21300002: sideAtkHidekage_1
+    21300004: sideAtkHidekage_2
+    21300006: sideAtkHidekage_3
+    21300008: sideAtkHidekage_4
+    21300010: sideAtkHidekage_5
+    21300012: sideAtkHidekage_6
+    21300014: sideAtkHidekage_7
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +38,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +46,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +57,176 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: sideAtkHidekage_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 5}
+        - {x: 44.5, y: 14}
+        - {x: -4.5, y: 60}
+        - {x: -6.5, y: 62}
+        - {x: -36.5, y: 62}
+        - {x: -44.5, y: 50}
+        - {x: -44.5, y: -40}
+        - {x: -27.5, y: -62}
+        - {x: -10.5, y: -62}
+        - {x: -2.5, y: -60}
+        - {x: 2.5, y: -36}
+        - {x: -6.5, y: -8}
+        - {x: 26.5, y: -3}
+    - name: sideAtkHidekage_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 20}
+        - {x: 4, y: 62}
+        - {x: -29, y: 62}
+        - {x: -50, y: 33}
+        - {x: -50, y: -13}
+        - {x: -28, y: -62}
+        - {x: -6, y: -62}
+        - {x: 3, y: -60}
+        - {x: 8, y: -36}
+        - {x: -1, y: -8}
+        - {x: 50, y: 0}
+    - name: sideAtkHidekage_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 62}
+        - {x: -29, y: 62}
+        - {x: -63, y: 15}
+        - {x: -63, y: -18}
+        - {x: -16, y: -59}
+        - {x: -12, y: -62}
+        - {x: 13, y: -62}
+        - {x: 22, y: -36}
+        - {x: 63, y: 1}
+        - {x: 63, y: 30}
+    - name: sideAtkHidekage_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 173
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 63.5}
+        - {x: -86.5, y: -3.5}
+        - {x: -86.5, y: -27.5}
+        - {x: -31.5, y: -63.5}
+        - {x: 62.5, y: -63.5}
+        - {x: 86.5, y: -29.5}
+        - {x: 86.5, y: 39.5}
+        - {x: 58.5, y: 63.5}
+    - name: sideAtkHidekage_4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 178
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 66.5}
+        - {x: -89, y: 42.5}
+        - {x: -89, y: -30.5}
+        - {x: -81, y: -48.5}
+        - {x: -10, y: -66.5}
+        - {x: 74, y: -66.5}
+        - {x: 89, y: -37.5}
+        - {x: 89, y: 49.5}
+        - {x: 78, y: 66.5}
+    - name: sideAtkHidekage_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 174
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 66.5}
+        - {x: -58, y: 66.5}
+        - {x: -87, y: 62.5}
+        - {x: -87, y: -9.5}
+        - {x: -34, y: -66.5}
+        - {x: 62, y: -66.5}
+        - {x: 65, y: -60.5}
+        - {x: 87, y: 9.5}
+        - {x: 87, y: 38.5}
+    - name: sideAtkHidekage_6
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 62}
+        - {x: -29, y: 62}
+        - {x: -63, y: 15}
+        - {x: -63, y: -18}
+        - {x: -16, y: -59}
+        - {x: -12, y: -62}
+        - {x: 13, y: -62}
+        - {x: 22, y: -36}
+        - {x: 63, y: 1}
+        - {x: 63, y: 30}
+    - name: sideAtkHidekage_7
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 20}
+        - {x: 4, y: 62}
+        - {x: -29, y: 62}
+        - {x: -50, y: 33}
+        - {x: -50, y: -13}
+        - {x: -28, y: -62}
+        - {x: -6, y: -62}
+        - {x: 3, y: -60}
+        - {x: 8, y: -36}
+        - {x: -1, y: -8}
+        - {x: 50, y: 0}
     outline: []
   spritePackingTag: 
   userData: 

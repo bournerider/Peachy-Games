@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 1af786006b16f1741bacfa811b847b45
+timeCreated: 1466870534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleLeftHidekage_0
+    21300002: idleLeftHidekage_1
+    21300004: idleLeftHidekage_2
+    21300006: idleLeftHidekage_3
+    21300008: idleLeftHidekage_4
+    21300010: idleLeftHidekage_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idleLeftHidekage_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -62}
+        - {x: -8.5, y: -62}
+        - {x: 44.5, y: -30}
+        - {x: 44.5, y: 19}
+        - {x: 8.5, y: 62}
+        - {x: -44.5, y: 62}
+        - {x: -44.5, y: -38}
+    - name: idleLeftHidekage_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 62}
+        - {x: -44.5, y: 33}
+        - {x: -44.5, y: -31}
+        - {x: -35.5, y: -62}
+        - {x: 9.5, y: -62}
+        - {x: 44.5, y: -15}
+        - {x: 44.5, y: 14}
+        - {x: -3.5, y: 62}
+    - name: idleLeftHidekage_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -55}
+        - {x: -43.5, y: -58}
+        - {x: -39.5, y: -62}
+        - {x: 0.5, y: -62}
+        - {x: 44.5, y: -30}
+        - {x: 44.5, y: 27}
+        - {x: 19.5, y: 62}
+        - {x: -36.5, y: 62}
+        - {x: -44.5, y: 50}
+    - name: idleLeftHidekage_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 13.5}
+        - {x: -3.5, y: 62.5}
+        - {x: -32.5, y: 62.5}
+        - {x: -40.5, y: 60.5}
+        - {x: -44.5, y: 39.5}
+        - {x: -44.5, y: -29.5}
+        - {x: -33.5, y: -62.5}
+        - {x: -4.5, y: -62.5}
+        - {x: -0.5, y: -55.5}
+        - {x: 41.5, y: -0.5}
+        - {x: 44.5, y: 4.5}
+    - name: idleLeftHidekage_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 62}
+        - {x: -35.5, y: 62}
+        - {x: -44.5, y: 47}
+        - {x: -44.5, y: -17}
+        - {x: -31.5, y: -62}
+        - {x: -12.5, y: -62}
+        - {x: 0.5, y: -57}
+        - {x: 44.5, y: -16}
+        - {x: 44.5, y: 35}
+    - name: idleLeftHidekage_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 62}
+        - {x: -33.5, y: 62}
+        - {x: -44.5, y: 45}
+        - {x: -44.5, y: -53}
+        - {x: -27.5, y: -62}
+        - {x: 16.5, y: -62}
+        - {x: 44.5, y: 5}
+        - {x: 44.5, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

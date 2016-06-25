@@ -18,6 +18,7 @@ public class Player : MonoBehaviour
     float velocityXSmoothing;
     float accelerationTimeAirborne = .2f;
     float accelerationTimeGrounded = .1f;
+    int jumpCount = 0;
     
 
     Controller2D controller;
@@ -36,13 +37,25 @@ public class Player : MonoBehaviour
         {
             velocity.y = 0;
         }
+
+        if (controller.collisions.below)
+        {
+            jumpCount = 0;
+        }
     
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
     
-        if (Input.GetKeyDown(KeyCode.Space) && controller.collisions.below)
+
+        if (jumpCount > 1)
+        {
+
+        }
+        else if (Input.GetKeyDown(KeyCode.Space))
         {
             velocity.y = jumpVelocity;
+            jumpCount = jumpCount + 1;
         }
+
 
         if (Input.GetKey(KeyCode.LeftShift))
         {
