@@ -1,15 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-
+//Required components as seen in the inspector
 [RequireComponent(typeof(Controller2D))]
 
 public class Player : MonoBehaviour
 {
-
+    //Initiate public variables - These can be changed in the inspector
     public float jumpHeight = 4;
     public float timeToJumpApex = .4f;
-    float moveSpeed = 6;
+    public float moveSpeed = 6;
+
+    //Initiate private variables - Can only be changed in the code
     Vector3 velocity;
     float gravity = -20;
     float jumpVelocity = 8;
