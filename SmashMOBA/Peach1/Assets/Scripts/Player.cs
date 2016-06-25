@@ -21,6 +21,9 @@ public class Player : MonoBehaviour
     int jumpCount = 0;
 
     int hashRightFace = Animator.StringToHash("RightFace");
+    int hashRightWalk = Animator.StringToHash("RightWalk");
+    int hashLeftFace = Animator.StringToHash("LeftFace");
+    int hashLeftWalk = Animator.StringToHash("LeftWalk");
 
     Controller2D controller;
     Animator myAnimator;
@@ -52,19 +55,54 @@ public class Player : MonoBehaviour
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         
 
-    //Animation transition code
+    //Animation transition right code
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             myAnimator.SetBool(hashRightFace, true);
-            Debug.Log(myAnimator.GetBool(hashRightFace));
+            myAnimator.SetBool(hashRightWalk, false);
+            myAnimator.SetBool(hashLeftFace, false);
+            myAnimator.SetBool(hashLeftWalk, false);
         }
+        if (Input.GetKeyUp(KeyCode.RightArrow))
+        {
+            myAnimator.SetBool(hashRightFace, true);
+            myAnimator.SetBool(hashRightWalk, false);
+            myAnimator.SetBool(hashLeftFace, false);
+            myAnimator.SetBool(hashLeftWalk, false);
+        }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            myAnimator.SetBool(hashRightFace, false);
+            myAnimator.SetBool(hashRightWalk, true);
+            myAnimator.SetBool(hashLeftFace, false);
+            myAnimator.SetBool(hashLeftWalk, false);
+        }
+
+
+        //Animation transition left code
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             myAnimator.SetBool(hashRightFace, false);
-            Debug.Log(myAnimator.GetBool(hashRightFace));
+            myAnimator.SetBool(hashRightWalk, false);
+            myAnimator.SetBool(hashLeftFace, true);
+            myAnimator.SetBool(hashLeftWalk, false);
+        }
+        if (Input.GetKeyUp(KeyCode.LeftArrow))
+        {
+            myAnimator.SetBool(hashRightFace, false);
+            myAnimator.SetBool(hashRightWalk, false);
+            myAnimator.SetBool(hashLeftFace, true);
+            myAnimator.SetBool(hashLeftWalk, false);
+        }
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            myAnimator.SetBool(hashRightFace, false);
+            myAnimator.SetBool(hashRightWalk, false);
+            myAnimator.SetBool(hashLeftFace, false);
+            myAnimator.SetBool(hashLeftWalk, true);
         }
 
-    //Jump code
+        //Jump code
         if (jumpCount > 1)
         {
 

@@ -413,9 +413,9 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.20194346, y: -0.012393568}
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.49862105, y: 1.2602369}
 --- !u!212 &395233365
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -453,8 +453,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 395233361}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 52.13, y: -81.11, z: 0}
-  m_LocalScale: {x: 1.4364114, y: 1.9124299, z: 1}
+  m_LocalPosition: {x: 52.43, y: -81.1, z: 0}
+  m_LocalScale: {x: 1.7188323, y: 1.9317311, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1350359165}
@@ -1061,11 +1061,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 192848, guid: e2e4de53039ca624fb3ef5fc1c6c8da3, type: 2}
       propertyPath: m_Layer
-      value: 9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 182178, guid: e2e4de53039ca624fb3ef5fc1c6c8da3, type: 2}
       propertyPath: m_Layer
-      value: 9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 166638, guid: e2e4de53039ca624fb3ef5fc1c6c8da3, type: 2}
       propertyPath: m_Layer
