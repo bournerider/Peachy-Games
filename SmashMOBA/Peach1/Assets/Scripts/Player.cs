@@ -19,15 +19,16 @@ public class Player : MonoBehaviour
     float accelerationTimeAirborne = .2f;
     float accelerationTimeGrounded = .1f;
     int jumpCount = 0;
-    
+
+    int hashRightFace = Animator.StringToHash("RightFace");
 
     Controller2D controller;
-    Animator animator;
+    Animator myAnimator;
     
     void Start()
     {
         controller = GetComponent<Controller2D>();
-        animator = GetComponent<Animator>();
+        myAnimator = GetComponent<Animator>();
         gravity = -(2 * jumpHeight) / (Mathf.Pow(timeToJumpApex, 2));
         jumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
         print("Gravity " + gravity + " Jump Velocity: " + jumpVelocity);
@@ -35,11 +36,14 @@ public class Player : MonoBehaviour
     
     void Update()
     {
+
+    //Stops vertical movement upon collision
         if (controller.collisions.above || controller.collisions.below)
         {
             velocity.y = 0;
         }
 
+    //Resets jump counter
         if (controller.collisions.below)
         {
             jumpCount = 0;
@@ -47,11 +51,20 @@ public class Player : MonoBehaviour
     
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         
+
+    //Animation transition code
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
-            animator.SetTrigger("faceRight");
+            myAnimator.SetBool(hashRightFace, true);
+            velocity.y = jumpVelocity;
+        }
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            myAnimator.SetBool(hashRightFace, false);
+            velocity.y = jumpVelocity;
         }
 
+    //Jump code
         if (jumpCount > 1)
         {
 
@@ -62,7 +75,7 @@ public class Player : MonoBehaviour
             jumpCount = jumpCount + 1;
         }
 
-
+    //Movespeed code
         if (Input.GetKey(KeyCode.LeftShift))
         {
             moveSpeed = sprintSpeed;
@@ -72,6 +85,7 @@ public class Player : MonoBehaviour
             moveSpeed = walkSpeed;
         }
 
+    //Player movement code
         float targetVelocityX = input.x * moveSpeed;
         velocity.x = Mathf.SmoothDamp(velocity.x, targetVelocityX, ref velocityXSmoothing, (controller.collisions.below) ? accelerationTimeGrounded : accelerationTimeAirborne);
         velocity.y += gravity * Time.deltaTime;
