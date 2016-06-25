@@ -56,12 +56,12 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             myAnimator.SetBool(hashRightFace, true);
-            velocity.y = jumpVelocity;
+            Debug.Log(myAnimator.GetBool(hashRightFace));
         }
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             myAnimator.SetBool(hashRightFace, false);
-            velocity.y = jumpVelocity;
+            Debug.Log(myAnimator.GetBool(hashRightFace));
         }
 
     //Jump code
