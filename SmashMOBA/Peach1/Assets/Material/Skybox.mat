@@ -10,11 +10,14 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_CustomRenderQueue: 1000
 =======
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
@@ -25,6 +28,9 @@ Material:
   m_CustomRenderQueue: 2000
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
+=======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -41,7 +47,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           m_Texture: {fileID: 0}
+=======
+          m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
           m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -88,7 +98,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           m_Texture: {fileID: 2800000, guid: 5aa54530038574a4bb7ee5f7781db800, type: 3}
+=======
+          m_Texture: {fileID: 0}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
           m_Texture: {fileID: 0}
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -121,6 +135,7 @@ Material:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -179,6 +194,8 @@ Material:
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
     m_Floats:
       data:
         first:
@@ -194,7 +211,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         second: 1
+=======
+        second: 0.5
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
         second: 0.5
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -245,10 +266,13 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           name: _Exposure
         second: 1
       data:
         first:
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
@@ -263,7 +287,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         second: 1
+=======
+        second: 0.7
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
         second: 0.7
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -280,10 +308,13 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       data:
         first:
           name: _Rotation
         second: 0
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
@@ -297,7 +328,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         second: {r: 1, g: 1, b: 1, a: 1}
+=======
+        second: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
         second: {r: 0, g: 0, b: 0, a: 1}
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -316,10 +351,13 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           name: _SpecColor
         second: {r: 0.2, g: 0.2, b: 0.2, a: 1}
       data:
         first:
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
@@ -339,10 +377,13 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       data:
         first:
           name: _Tint
         second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======

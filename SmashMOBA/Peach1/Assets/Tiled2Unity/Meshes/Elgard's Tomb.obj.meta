@@ -103,8 +103,11 @@ ModelImporter:
     4300034: mesh_0017
     4300036: mesh_0018
     4300038: mesh_0019
+<<<<<<< HEAD
     4300040: mesh_0011_MeshPart0
     4300042: mesh_0012_MeshPart0
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
     11400000: mesh_0001
     11400002: mesh_0002
     11400004: mesh_0003

@@ -3,6 +3,7 @@ Cmd: getPlatforms
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: compileSnippet
   api=8 type=0 insize=1333 outsize=1121 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
 Cmd: compileSnippet
@@ -17,6 +18,8 @@ Cmd: compileSnippet
   api=8 type=0 insize=1321 outsize=1121 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
 Cmd: compileSnippet
   api=8 type=1 insize=1331 outsize=749 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======

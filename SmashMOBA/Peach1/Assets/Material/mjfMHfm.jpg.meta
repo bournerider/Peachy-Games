@@ -3,7 +3,11 @@ guid: d6658fad49ea9154ea4c14f42e3435fb
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 timeCreated: 1467150197
+=======
+timeCreated: 1467072712
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 timeCreated: 1467072712
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -23,7 +27,11 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     linearTexture: 1
+=======
+    linearTexture: 0
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
     linearTexture: 0
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -43,7 +51,11 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     externalNormalMap: 1
+=======
+    externalNormalMap: 0
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
     externalNormalMap: 0
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -69,11 +81,14 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 1
 =======
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
@@ -84,6 +99,9 @@ TextureImporter:
   nPOTScale: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
+=======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -96,7 +114,11 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   spriteMode: 0
+=======
+  spriteMode: 1
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
   spriteMode: 1
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -115,8 +137,13 @@ TextureImporter:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   alphaIsTransparency: 0
   textureType: 1
+=======
+  alphaIsTransparency: 1
+  textureType: 8
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
   alphaIsTransparency: 1
   textureType: 8

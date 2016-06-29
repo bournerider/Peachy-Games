@@ -456,7 +456,11 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 73.03, y: -91.67, z: -1.07}
+=======
+  m_LocalPosition: {x: 64.81, y: -99.66, z: 0}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
   m_LocalPosition: {x: 64.81, y: -99.66, z: 0}
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -567,6 +571,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -769,6 +774,8 @@ Prefab:
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 --- !u!1 &655977741
 GameObject:
   m_ObjectHideFlags: 0
@@ -830,6 +837,9 @@ Transform:
   m_RootOrder: 8
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
+=======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -1085,8 +1095,13 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1244640768}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 87.46, y: -98.21, z: 0}
   m_LocalScale: {x: 4.1287313, y: 0.6720158, z: 1}
+=======
+  m_LocalPosition: {x: 80.1, y: -99.4, z: 0}
+  m_LocalScale: {x: 4.1287313, y: 0.46581745, z: 1}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1154,7 +1169,11 @@ Camera:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   orthographic: 1
+=======
+  orthographic: 0
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
   orthographic: 0
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -1201,7 +1220,11 @@ Skybox:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CustomSkybox: {fileID: 2100000, guid: 7207cf83556c06544ac358de51fa6cba, type: 2}
+=======
+  m_CustomSkybox: {fileID: 0}
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
   m_CustomSkybox: {fileID: 0}
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
@@ -1276,7 +1299,10 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
 >>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 =======
