@@ -14,96 +14,24 @@ Platform assembly: C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashM
 Loading C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashMOBA\Peach1\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashMOBA\Peach1\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashMOBA\Peach1\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 - Completed reload, in  0.241 seconds
-=======
-- Completed reload, in  0.219 seconds
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-- Completed reload, in  0.219 seconds
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-- Completed reload, in  0.219 seconds
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-- Completed reload, in  0.219 seconds
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 Platform assembly: C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashMOBA\Peach1\Game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Black Box\Desktop\My Stuff\Unity\Peachy-Games\SmashMOBA\Peach1\Game_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 UnloadTime: 0.717774 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
 UnloadTime: 4.046059 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 443.
 Total: 0.419555 ms (FindLiveObjects: 0.062203 ms CreateObjectMapping: 0.041981 ms MarkObjects: 0.304875 ms  DeleteObjects: 0.008959 ms)
-=======
-UnloadTime: 0.778442 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.273883 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 429.
-Total: 0.324329 ms (FindLiveObjects: 0.061691 ms CreateObjectMapping: 0.040445 ms MarkObjects: 0.211697 ms  DeleteObjects: 0.009215 ms)
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-UnloadTime: 0.778442 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.273883 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 429.
-Total: 0.324329 ms (FindLiveObjects: 0.061691 ms CreateObjectMapping: 0.040445 ms MarkObjects: 0.211697 ms  DeleteObjects: 0.009215 ms)
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-UnloadTime: 0.778442 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.273883 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 429.
-Total: 0.324329 ms (FindLiveObjects: 0.061691 ms CreateObjectMapping: 0.040445 ms MarkObjects: 0.211697 ms  DeleteObjects: 0.009215 ms)
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-UnloadTime: 0.778442 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.273883 ms
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 429.
-Total: 0.324329 ms (FindLiveObjects: 0.061691 ms CreateObjectMapping: 0.040445 ms MarkObjects: 0.211697 ms  DeleteObjects: 0.009215 ms)
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
 
 Gravity -133.3333 Jump Velocity: 40
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Setting up 2 worker threads for Enlighten.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   Thread -> id: e10 -> priority: 1 
   Thread -> id: 2750 -> priority: 1 
-=======
-  Thread -> id: 2558 -> priority: 1 
-  Thread -> id: 22ac -> priority: 1 
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-  Thread -> id: 2558 -> priority: 1 
-  Thread -> id: 22ac -> priority: 1 
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-  Thread -> id: 2558 -> priority: 1 
-  Thread -> id: 22ac -> priority: 1 
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-  Thread -> id: 2558 -> priority: 1 
-  Thread -> id: 22ac -> priority: 1 
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be

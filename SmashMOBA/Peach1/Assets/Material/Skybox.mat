@@ -7,35 +7,10 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Skybox
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_CustomRenderQueue: 1000
-=======
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-  m_Shader: {fileID: 10606, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_CustomRenderQueue: 2000
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
@@ -44,23 +19,7 @@ Material:
         first:
           name: _MainTex
         second:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
           m_Texture: {fileID: 0}
-=======
-          m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 2800000, guid: d6658fad49ea9154ea4c14f42e3435fb, type: 3}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -95,23 +54,7 @@ Material:
         first:
           name: _EmissionMap
         second:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
           m_Texture: {fileID: 2800000, guid: 5aa54530038574a4bb7ee5f7781db800, type: 3}
-=======
-          m_Texture: {fileID: 0}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 0}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 0}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-          m_Texture: {fileID: 0}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -135,10 +78,6 @@ Material:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       data:
         first:
           name: _SpecGlossMap
@@ -188,14 +127,6 @@ Material:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
     m_Floats:
       data:
         first:
@@ -208,23 +139,7 @@ Material:
       data:
         first:
           name: _Cutoff
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         second: 1
-=======
-        second: 0.5
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.5
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.5
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.5
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
       data:
         first:
           name: _Parallax
@@ -263,107 +178,39 @@ Material:
         second: 0
       data:
         first:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
           name: _Exposure
         second: 1
       data:
         first:
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
           name: _SquashAmount
         second: 1
       data:
         first:
           name: _TranslucencyViewDependency
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         second: 1
-=======
-        second: 0.7
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.7
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.7
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: 0.7
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
       data:
         first:
           name: _ShadowStrength
         second: 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       data:
         first:
           name: _Rotation
         second: 0
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
     m_Colors:
       data:
         first:
           name: _EmissionColor
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         second: {r: 1, g: 1, b: 1, a: 1}
-=======
-        second: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
-        second: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
       data:
         first:
           name: _Color
         second: {r: 1, g: 1, b: 1, a: 1}
       data:
         first:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
           name: _SpecColor
         second: {r: 0.2, g: 0.2, b: 0.2, a: 1}
       data:
         first:
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
           name: _TreeInstanceColor
         second: {r: 1, g: 1, b: 1, a: 1}
       data:
@@ -374,19 +221,7 @@ Material:
         first:
           name: _TranslucencyColor
         second: {r: 0.047622412, g: 0.022275109, b: 0.75735295, a: 1}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       data:
         first:
           name: _Tint
         second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
-=======
->>>>>>> fad9c3d5ffe5247c1bbac64b3996cc287d6963be
