@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d74201302eb60b14fbbe0cf9c48f3e08
+timeCreated: 1467238016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sideAtkRightHidekage_0
+    21300002: sideAtkRightHidekage_1
+    21300004: sideAtkRightHidekage_2
+    21300006: sideAtkRightHidekage_3
+    21300008: sideAtkRightHidekage_4
+    21300010: sideAtkRightHidekage_5
+    21300012: sideAtkRightHidekage_6
+    21300014: sideAtkRightHidekage_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sideAtkRightHidekage_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 89
+        height: 124
+      alignment: 9
+      pivot: {x: 0.76959956, y: 0.52036875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.49436, y: -64.52573}
+        - {x: 20.505638, y: -64.52573}
+        - {x: 20.505638, y: 59.474274}
+        - {x: -68.49436, y: 59.474274}
+    - name: sideAtkRightHidekage_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 100
+        height: 123
+      alignment: 9
+      pivot: {x: 0.68311495, y: 0.521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.311493, y: 58.917}
+        - {x: -16.311493, y: 54.917}
+        - {x: -12.311493, y: 49.917}
+        - {x: -30.311493, y: 15.917}
+        - {x: -68.31149, y: 10.917}
+        - {x: -68.31149, y: 4.917}
+        - {x: -65.31149, y: 1.9169998}
+        - {x: -61.311493, y: -1.0830002}
+        - {x: -49.311493, y: -3.0830002}
+        - {x: -34.311493, y: -64.083}
+        - {x: 26.688507, y: -64.083}
+        - {x: 31.688507, y: -32.083}
+        - {x: 31.688507, y: 31.917}
+        - {x: 5.688507, y: 58.917}
+    - name: sideAtkRightHidekage_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 126
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5350795, y: 0.521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.420013, y: 59.395996}
+        - {x: -67.42001, y: 27.395996}
+        - {x: -67.42001, y: -9.604004}
+        - {x: -41.420013, y: -64.604004}
+        - {x: 23.579987, y: -64.604004}
+        - {x: 58.579987, y: -15.604004}
+        - {x: 58.579987, y: 5.395996}
+        - {x: 7.5799866, y: 59.395996}
+    - name: sideAtkRightHidekage_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 173
+        height: 127
+      alignment: 9
+      pivot: {x: 0.3394052, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.717102, y: 63.5}
+        - {x: -17.717102, y: 56.5}
+        - {x: -58.717102, y: 51.5}
+        - {x: -58.717102, y: -63.5}
+        - {x: 33.282898, y: -63.5}
+        - {x: 114.2829, y: -21.5}
+        - {x: 114.2829, y: -6.5}
+        - {x: 49.282898, y: 63.5}
+    - name: sideAtkRightHidekage_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 178
+        height: 133
+      alignment: 9
+      pivot: {x: 0.33327425, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.322815, y: 69.16}
+        - {x: -59.322815, y: 52.16}
+        - {x: -59.322815, y: -11.84}
+        - {x: -39.322815, y: -63.84}
+        - {x: 57.677185, y: -63.84}
+        - {x: 118.677185, y: -25.84}
+        - {x: 118.677185, y: 57.16}
+        - {x: 83.677185, y: 69.16}
+    - name: sideAtkRightHidekage_5
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 174
+        height: 133
+      alignment: 9
+      pivot: {x: 0.34032783, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.78296, y: 69.16}
+        - {x: -25.217041, y: 69.16}
+        - {x: -59.21704, y: 27.16}
+        - {x: -59.21704, y: -7.84}
+        - {x: -37.21704, y: -63.84}
+        - {x: 19.782959, y: -63.84}
+        - {x: 114.78296, y: 30.16}
+        - {x: 114.78296, y: 50.16}
+    - name: sideAtkRightHidekage_6
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 126
+        height: 124
+      alignment: 9
+      pivot: {x: 0.53006804, y: 0.521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.788574, y: 59.395996}
+        - {x: -66.788574, y: 19.395996}
+        - {x: -66.788574, y: 3.395996}
+        - {x: -48.788574, y: -6.604004}
+        - {x: -35.788574, y: -64.604004}
+        - {x: 22.211426, y: -64.604004}
+        - {x: 59.211426, y: -11.604004}
+        - {x: 59.211426, y: 3.395996}
+        - {x: 8.211426, y: 59.395996}
+    - name: sideAtkRightHidekage_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 100
+        height: 124
+      alignment: 9
+      pivot: {x: 0.68311524, y: 0.521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.311523, y: 59.395996}
+        - {x: -16.311523, y: 55.395996}
+        - {x: -12.311523, y: 50.395996}
+        - {x: -30.311523, y: 16.395996}
+        - {x: -68.31152, y: 11.395996}
+        - {x: -68.31152, y: -22.604004}
+        - {x: -44.311523, y: -64.604004}
+        - {x: 17.688477, y: -64.604004}
+        - {x: 31.688477, y: -20.604004}
+        - {x: 31.688477, y: 24.395996}
+        - {x: 7.6884766, y: 59.395996}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

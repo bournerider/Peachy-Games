@@ -31,3 +31,6 @@ sysinfo.txt
 
 # UnityLockfile
 Temp/
+
+#Giant player file
+player_win_x86.pdb

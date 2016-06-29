@@ -24,6 +24,7 @@ public class Player : MonoBehaviour
     int hashRightWalk = Animator.StringToHash("RightWalk");
     int hashLeftFace = Animator.StringToHash("LeftFace");
     int hashLeftWalk = Animator.StringToHash("LeftWalk");
+    int hashSideAtk = Animator.StringToHash("SideAtk");
 
     Controller2D controller;
     Animator myAnimator;
@@ -100,6 +101,12 @@ public class Player : MonoBehaviour
             myAnimator.SetBool(hashRightWalk, false);
             myAnimator.SetBool(hashLeftFace, false);
             myAnimator.SetBool(hashLeftWalk, true);
+        }
+
+        //Attack animation code
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            myAnimator.SetTrigger(hashSideAtk);
         }
 
         //Jump code
